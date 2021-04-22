@@ -3,6 +3,6 @@ This is a script that process the Boston Airbnb Open Data and predict the listin
 
 Runing the script: 
 
-  Download data files and jupyter note to local directory
+    Download data files and jupyter note to local directory
 
-  Run jupyter note book
+    Run jupyter note book
